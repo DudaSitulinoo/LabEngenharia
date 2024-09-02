@@ -10,5 +10,5 @@ function verificarParidade() {
     } else {
         alert("O número " + numero + " é ímpar.");
     }
-
+    verificarParidade();
 }
