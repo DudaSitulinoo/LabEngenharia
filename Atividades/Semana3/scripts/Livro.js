@@ -9,7 +9,7 @@ function adicionarLivro() {
         atualizarLista(); 
     }
 
-    7
+    
 
     document.getElementById('nomeLivro').value = "";
 }
